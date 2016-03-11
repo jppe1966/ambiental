@@ -1,2 +1,2 @@
 #¿Qué es esto?
-Apuntes de la parte de Azanza
+Una prueba de github para redactar los apuntes de la parte de Azanza
